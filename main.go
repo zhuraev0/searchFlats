@@ -113,3 +113,6 @@ func searchAllFlatsByFlatRoomCount(flats []flat, FlatRoomCount int64) []flat {
 	}
 	return result
 }
+func main() {
+
+}
